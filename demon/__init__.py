@@ -6,6 +6,7 @@ Then instantiate your subclass passing it the PID file path
 
 import os
 import signal
+import sys
 import time
 
 import daemonize
