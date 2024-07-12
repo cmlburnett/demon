@@ -5,3 +5,4 @@ python/build
 __pycache__
 dist
 demon.egg-info
+build
